@@ -25,6 +25,10 @@
 | Ferramentas    | <img src="./Icons/VSCode-Dark.svg" width="48"> <img src="./Icons/VisualStudio-Dark.svg" width="48"> <img src="./Icons/XCode.png" width="48"> <img src="./Icons/Inteli.png" width="48">
 | UI/UX          | <img src="./Icons/Figma-Dark.svg" width="48"> <img src="./Icons/Canva.png" width="48">                               |
 
+<p display="flex">
+  <img src="Yippe programing.jpg" width="100">
+</p>
+
 ## Estatísticas
 
 <p align="center">
