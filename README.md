@@ -15,9 +15,21 @@
   
 ## 💻 Linguagens e Ferramentas
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| Category       | Skills                                     |
+|----------------|--------------------------------------------|
+| Programming    | Python, JavaScript, Java, C#, C++, Kotlin, Swift |
+| Front-end      | HTML, CSS, React                           |
+| Back-end       | Express, Node.js, Spring Boot                   |
+| Databases      | SQL Server, MySQL                         |
+| Version Control| Github                             |
+| Ferramentas    | Visual Studio Code, Xcode, IntelliJ
+| UI/UX          | Figma, Canva                               |
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical" />
+</p>
+
 
 <!---
 TainaCarazzato/TainaCarazzato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
