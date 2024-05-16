@@ -12,6 +12,17 @@
 - 🎮 Lvl 18 - 16/09/2005
 - 🌱 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💻 Tenho interesse em desenvolvimento web, mobile e jogos.
+
+<div display="flex">
+<h3> Entre em Contato: </h3>
+  <a href="mailto:tainamonicopc2@outlook.com">
+    <img src="./Icons/Gmail-Dark.svg" alt="Email" width="48">
+  </a>
+
+  <a href="https://discord.com/users/taizzato">
+    <img src="./Icons/Discord.svg" alt="Email" width="48">
+  </a>
+</div>
   
 ## 💻 Linguagens e Ferramentas
 
@@ -25,10 +36,6 @@
 | Ferramentas    | <img src="./Icons/VSCode-Dark.svg" width="48"> <img src="./Icons/VisualStudio-Dark.svg" width="48"> <img src="./Icons/XCode.png" width="48"> <img src="./Icons/Inteli.png" width="48">
 | UI/UX          | <img src="./Icons/Figma-Dark.svg" width="48"> <img src="./Icons/Canva.png" width="48">                               |
 
-<p display="flex">
-  <img src="Yippe programing.jpg" width="100">
-</p>
-
 ## Estatísticas
 
 <p align="center">
@@ -36,6 +43,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical" />
 </p>
 
+<p display="flex">
+  <img src="Yippe programing.jpg" width="100">
+</p>
 
 <!---
 TainaCarazzato/TainaCarazzato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
