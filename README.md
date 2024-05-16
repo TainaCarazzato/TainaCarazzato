@@ -13,16 +13,10 @@
 - 🌱 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💻 Tenho interesse em desenvolvimento web, mobile e jogos.
 
-<div display="flex">
-<h3> Entre em Contato: </h3>
-  <a href="mailto:tainamonicopc2@outlook.com">
-    <img src="./Icons/Gmail-Dark.svg" alt="Email" width="48">
-  </a>
+- <h4>Entre em Contato:</h4>
 
-  <a href="https://discord.com/users/taizzato">
-    <img src="./Icons/Discord.svg" alt="Email" width="48">
-  </a>
-</div>
+[<img src="./Icons/Gmail-Dark.svg" alt="Email" width="48">](mailto:tainamonicopc2@outlook.com) &nbsp;
+[<img src="./Icons/Discord.svg" alt="Discord" width="48">](https://discord.com/users/taizzato)
   
 ## 💻 Linguagens e Ferramentas
 
@@ -43,11 +37,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical" />
 </p>
 
+
+<!---
+
 <p display="flex">
   <img src="Yippe programing.jpg" width="100">
 </p>
 
-<!---
 TainaCarazzato/TainaCarazzato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
