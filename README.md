@@ -17,13 +17,13 @@
 
 | Category       | Skills                                     |
 |----------------|--------------------------------------------|
-| Programming    | Python, JavaScript, Java, C#, C++, Kotlin, Swift |
-| Front-end      | HTML, CSS, React                           |
-| Back-end       | Express, Node.js, Spring Boot                   |
-| Databases      | SQL Server, MySQL                         |
+| Programming    | <img src="./Icons/Python-Dark.svg" width="48"> <img src="./Icons/JavaScript.svg" width="48"> <img src="./Icons/Java-Dark.svg" width="48">, C#, C++, <img src="./Icons/Kotlin-Dark.svg" width="48"> <img src="./Icons/Swift.svg" width="48"> |
+| Front-end      | <img src="./Icons/HTML.svg" width="48"> <img src="./Icons/CSS.svg" width="48"> <img src="./Icons/React-Dark.svg" width="48">                           |
+| Back-end       | <img src="./Icons/NodeJS-Dark.svg" width="48"> <img src="./Icons/Spring-Dark.svg" width="48">                   |
+| Databases      | SQL Server, <img src="./Icons/MySQL-Dark.svg" width="48">                         |
 | Version Control| Github                             |
-| Ferramentas    | Visual Studio Code, Xcode, IntelliJ
-| UI/UX          | Figma, Canva                               |
+| Ferramentas    | <img src="./Icons/VSCode-Dark.svg" width="48"> <img src="./Icons/VisualStudio-Dark.svg" width="48"> <img src="./Icons/XCode.png" width="48">, IntelliJ
+| UI/UX          | <img src="./Icons/Figma-Dark.svg" width="48"> <img src="./Icons/Canva.png" width="48">                               |
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical" />
