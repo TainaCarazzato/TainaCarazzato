@@ -27,7 +27,7 @@
 | Back-end       | <img src="./Icons/NodeJS-Dark.svg" width="48"> <img src="./Icons/Spring-Dark.svg" width="48">                   |
 | Banco de Dados      | <img src="./Icons/SQLServer.png" width="48"> <img src="./Icons/MySQL-Dark.svg" width="48">                         |
 | Version Control|  <img src="./Icons/Github-Dark.svg" width="48">                            |
-| Ferramentas    | <img src="./Icons/VSCode-Dark.svg" width="48"> <img src="./Icons/VisualStudio-Dark.svg" width="48"> <img src="./Icons/XCode.png" width="48"> <img src="./Icons/Inteli.png" width="48">
+| Ferramentas    | <img src="./Icons/VSCode-Dark.svg" width="48"> <img src="./Icons/VisualStudio-Dark.svg" width="48"> <img src="./Icons/XCode.png" width="48"> <img src="./Icons/Inteli.png" width="48"> <img src="./Icons/GameMaker_Studio_2_logo.png" width="48">
 | UI/UX          | <img src="./Icons/Figma-Dark.svg" width="48"> <img src="./Icons/Canva.png" width="48">                               |
 
 ## Estatísticas
