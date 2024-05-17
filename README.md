@@ -9,7 +9,7 @@
 
 - 🎓 Estudando Informática no Colégio Técnico de Campinas - Unicamp (COTUCA).
 - 👽 Meus pronomes são: Ela/Dela.
-- 🎮 Lvl 18 - 16/09/2005
+- 🎮 Lvl 18 - XX/XX/2005
 - 🌱 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💻 Tenho interesse em desenvolvimento web, mobile e jogos.
 
