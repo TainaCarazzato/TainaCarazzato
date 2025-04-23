@@ -7,7 +7,7 @@
 
 <h3>Olá, meu nome é Tainá Carazzato. Seja bem vindo!</h3>
 
-- 🎓 Estudando Informática no Colégio Técnico de Campinas - Unicamp (COTUCA).
+- 🎓 Ex-estudante de Informática no Colégio Técnico de Campinas - Unicamp (COTUCA).
 - 👽 Meus pronomes são: Ela/Dela.
 - 🎮 Lvl 19 - XX/XX/2005
 - 🌱 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -22,12 +22,11 @@
 
 | Categoria       | Habilidades                                     |
 |----------------|--------------------------------------------|
-| Programação    | <img src="./Icons/Python-Dark.svg" width="48"> <img src="./Icons/JavaScript.svg" width="48"> <img src="./Icons/Java-Dark.svg" width="48"> <img src="./Icons/CSharp.png" width="48">  <img src="./Icons/C++.png" width="48"> <img src="./Icons/Kotlin-Dark.svg" width="48"> <img src="./Icons/Swift.svg" width="48"> |
+| Programação    | <img src="./Icons/Java-Dark.svg" width="48"> <img src="./Icons/Kotlin-Dark.svg" width="48"> <img src="./Icons/Swift.svg" width="48"> |
 | Front-end      | <img src="./Icons/HTML.svg" width="48"> <img src="./Icons/CSS.svg" width="48"> <img src="./Icons/React-Dark.svg" width="48">                           |
-| Back-end       | <img src="./Icons/NodeJS-Dark.svg" width="48"> <img src="./Icons/Spring-Dark.svg" width="48">                   |
+| Back-end       | <img src="./Icons/NodeJS-Dark.svg" width="48">                  |
 | Banco de Dados      | <img src="./Icons/SQLServer.png" width="48"> <img src="./Icons/MySQL-Dark.svg" width="48">                         |
-| Version Control|  <img src="./Icons/Github-Dark.svg" width="48">                            |
-| Ferramentas    | <img src="./Icons/VSCode-Dark.svg" width="48"> <img src="./Icons/VisualStudio-Dark.svg" width="48"> <img src="./Icons/XCode.png" width="48"> <img src="./Icons/Inteli.png" width="48"> <img src="./Icons/GameMakerStudio.svg" width="48"> <img src="./Icons/AndroidStudio-Light.svg" width="48"> <img src="./Icons/Arduino.svg" width="48">
+| Ferramentas    | <img src="./Icons/VSCode-Dark.svg" width="48"> <img src="./Icons/VisualStudio-Dark.svg" width="48"> <img src="./Icons/XCode.png" width="48"> <img src="./Icons/GameMakerStudio.svg" width="48"> <img src="./Icons/AndroidStudio-Light.svg" width="48">
 | UI/UX          | <img src="./Icons/Figma-Dark.svg" width="48"> <img src="./Icons/Canva.png" width="48">                               |
 
 ## Estatísticas
